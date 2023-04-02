@@ -1,2 +1,2 @@
-# mi-pimer-repositorio
+# mi-primer-repositorio
 hola soy yo
